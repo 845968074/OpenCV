@@ -106,5 +106,5 @@ venv.bak/
 #idea
 .idea/
 
-./code/image
-./code/more_samples
+./code/image/
+./code/more_samples/
